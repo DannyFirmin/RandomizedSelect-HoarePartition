@@ -1,0 +1,8 @@
+FileName Solution Time(ms)
+city1.txt 11 0.09
+city2.txt 14 0.12
+city3.txt 49 0.34
+city4.txt 249 54.32
+city5.txt 500 146.88
+city6.txt 1,750 739.77
+city7.txt 49,999 21,991.22
